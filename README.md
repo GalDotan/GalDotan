@@ -1,7 +1,7 @@
-Gal Dotan
-Java, Python, C#
-FRC Robotics Team #MA5951
-Tel Aviv Isreal
+--Gal Dotan
+--Java, Python, C#
+--FRC Robotics Team #MA5951
+--Tel Aviv Isreal
 
 <!---
 GalDotan/GalDotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
